@@ -1,0 +1,103 @@
+* {
+	margin: 0;
+}
+
+span {
+	color: #ff8484;
+}
+
+.zhengti {
+	margin: 0 0 50px 0;
+}
+
+.content-top {
+	width: 20%;
+	height: 200px;
+	background: url(../img/page4-1.png) no-repeat;
+	background-size: contain;
+}
+
+.content-button {
+	width: 35%;
+	height: 160px;
+	background: url(../img/page4-2.png) no-repeat 100% 100%;
+	background-size: contain;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
+
+.header h1 {
+	font-family: "宋体";
+	font-size: 3.2em;
+	position: absolute;
+	top: 5px;
+	left: 43%;
+}
+
+.pic {
+	align-content: center;
+	width: 80%;
+	height: 60%;
+	position: relative;
+	left: 80px;
+	bottom: 70px;
+	white-space: nowrap;
+}
+
+.pic ul {
+	list-style: none;
+	margin: 4em auto;
+	width: 80%;
+}
+
+.pic li {
+	position: relative;
+	float: left;
+	width: 16%;
+}
+
+.pic li+li {
+	margin-left: 5%;
+}
+
+.pic img {
+	width: 100%;
+	padding: 6px;
+	margin: 0 30px;
+	box-sizing: border-box;
+	border: 1px solid #000000;
+	background-color: #d9d9d9;
+}
+
+.botton-logo {
+	width: 82%;
+	height: 30%;
+	overflow: hidden;
+	align-content: center;
+	position: absolute;
+	bottom: 10px;
+	top:430px
+}
+
+.botton-logo p {
+	font-family: "script mt bold";
+	font-size: 11.4em;
+	padding: 0 150px 0 260px;
+	position: absolute;
+	bottom: 0;
+	color: #737373;
+}
+
+.xiabiao {
+	align-content: center;
+	margin: 10px 42px;
+	color: #ffffff;
+	font-family: 思源黑体;
+	text-align: center;
+	width: 100%;
+	line-height: 1.5em;
+	height: 32px;
+	background: url(../img/page4-3.png) no-repeat;
+	background-size: 100% 100%;
+}
